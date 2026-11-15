@@ -6,7 +6,7 @@ from kivy.uix.button import Button
 import requests, asyncio, threading, subprocess, json, os
 import edge_tts
 
-GROQ_KEY = "Enter key here"
+GROQ_KEY = "gsk_rVt9wz7EHiJBbIkgWfLFWGd">
 MEMORY = "tess_memory.json"
 
 class TessApp(App):
